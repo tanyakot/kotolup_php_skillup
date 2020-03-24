@@ -1,4 +1,4 @@
 <?PHP
 
-echo "hello wold";
+echo "hello my wold";
 >
